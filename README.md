@@ -1,4 +1,4 @@
-# HairDay
+🚀 # HairDay
 
 O HairDay é uma aplicação completa para gestão de agendamentos em barbearias ou salões de beleza. O projeto permite que clientes visualizem horários disponíveis e realizem agendamentos de forma intuitiva, enquanto os administradores podem gerenciar a agenda do dia.
 
